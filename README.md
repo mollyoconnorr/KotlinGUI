@@ -117,6 +117,7 @@ Check installation with:
     -   Debugging
     -   Minor UI refinements
 -   Kotlin Official Documentation: https://kotlinlang.org/docs
+-   https://chatgpt.com/
 
 ------------------------------------------------------------------------
 

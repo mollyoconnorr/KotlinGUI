@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **Kotlin Falling Objects Game** is a GUI-based arcade-style game
+The **Falling Frenzy** is a GUI-based arcade-style game
 written in Kotlin using Swing. Players enter their name, choose a
 difficulty level, and attempt to catch falling objects to earn points.
 The game tracks high scores using a persistent leaderboard system.
